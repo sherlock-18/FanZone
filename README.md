@@ -1,1 +1,2 @@
 # FanZone
+FanZone is an innovative app designed to bring sports and game enthusiasts together. It provides a platform where users can connect with fellow fans, join clubs dedicated to their favorite sports or games, discuss matches, and participate in voice and video calls during live events. Whether you're passionate about cricket, football, tennis, chess, F1 racing, or any other sport or game, FanZone is the place to be.
